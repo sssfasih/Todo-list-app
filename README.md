@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # todo_app
 
 ## Project setup
