@@ -2,15 +2,18 @@
   <div id="app">
     <Header/>
     <router-view/>
+    <credits/>
   </div>
 </template>
 
 <script>
 import Header from "./components/layout/Header";
+import credits from "./components/layout/credits";
 export default {
   name: 'app',
   components: {
-    Header
+    Header,
+    credits
   }
 }
 
